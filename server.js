@@ -143,6 +143,16 @@ app.post('/additem',async(req , req)=>{
                 ProductId:req.body.proid
             }
         })
+        if(!userpre){
+
+            try{
+                
+            }
+
+        }
+        else{
+
+        }
     }
     catch(e){
 
